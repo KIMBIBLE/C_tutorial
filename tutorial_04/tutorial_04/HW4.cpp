@@ -32,6 +32,5 @@ int main()
 	printf("%.4lf일은 %d일 %d시간 %d분 %.2lf초입니다..\n", 
 		dTotalTime, timeDay, timeHour,timeMinuate, timeSecond);
 
-
-
+	return 0;
 }
