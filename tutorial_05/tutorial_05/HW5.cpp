@@ -5,15 +5,15 @@ void printUsageFee(double totalFeeAfterTax);
 
 int main()
 {
-	double basicRate = 660;	//단위 : 원
+	double basicRate = 660.0;	//단위 : 원
 	double kwPerFee = 88.5;	//단위 : 원
-	double totalFeeBeroreTax = 0;	//단위 : 원
+	double totalFeeBeroreTax = 0.0;	//단위 : 원
 							//기본요금 + (사용량 * kw 당 사용 요금)
 	double taxRate = 0.09;		//단위 : %
 							//0.01%
 						//전체요금의 9%
-	double tax = 0;	//단위 : 원
-	double totalFeeAfterTax = 0;	//단위 : 원
+	double tax = 0.0;	//단위 : 원
+	double totalFeeAfterTax = 0.0;	//단위 : 원
 							//전체 요금 + 세금
 	int usedAmount;	//단위 : kw
 
