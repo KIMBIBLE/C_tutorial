@@ -1,0 +1,7 @@
+﻿  HW13.cpp
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_13\tutorial_13\hw13.cpp(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_13\tutorial_13\hw13.cpp(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  tutorial_13.vcxproj -> C:\Users\B.B.KIM\Desktop\PM\C_tutorial\tutorial_13\Debug\tutorial_13.exe
+  tutorial_13.vcxproj -> C:\Users\B.B.KIM\Desktop\PM\C_tutorial\tutorial_13\Debug\tutorial_13.pdb (Full PDB)
