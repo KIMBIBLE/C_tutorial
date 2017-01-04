@@ -1,0 +1,8 @@
+﻿  HW20.cpp
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_20\tutorial_20\hw20.cpp(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_20\tutorial_20\hw20.cpp(44): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_20\tutorial_20\hw20.cpp(57): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_20\tutorial_20\hw20.cpp(59): warning C4244: 'return': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  tutorial_20.vcxproj -> C:\Users\B.B.KIM\Desktop\PM\C_tutorial\tutorial_20\Debug\tutorial_20.exe
+  tutorial_20.vcxproj -> C:\Users\B.B.KIM\Desktop\PM\C_tutorial\tutorial_20\Debug\tutorial_20.pdb (Full PDB)
