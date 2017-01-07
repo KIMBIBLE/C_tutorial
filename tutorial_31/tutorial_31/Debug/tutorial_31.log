@@ -1,0 +1,6 @@
+﻿  HW31.cpp
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_31\tutorial_31\hw31.cpp(22): warning C4101: 'i' :참조되지 않은 지역 변수입니다.
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_31\tutorial_31\hw31.cpp(227): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  tutorial_31.vcxproj -> C:\Users\B.B.KIM\Desktop\PM\C_tutorial\tutorial_31\Debug\tutorial_31.exe
+  tutorial_31.vcxproj -> C:\Users\B.B.KIM\Desktop\PM\C_tutorial\tutorial_31\Debug\tutorial_31.pdb (Full PDB)
