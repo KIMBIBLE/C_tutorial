@@ -1,3 +1,4 @@
 ﻿  HW28.cpp
+HW28.obj : warning LNK4075: '/EDITANDCONTINUE'이(가) '/OPT:LBR' 사양으로 인해 무시됩니다.
   tutorial_28.vcxproj -> C:\Users\B.B.KIM\Desktop\PM\C_tutorial\tutorial_28\Debug\tutorial_28.exe
   tutorial_28.vcxproj -> C:\Users\B.B.KIM\Desktop\PM\C_tutorial\tutorial_28\Debug\tutorial_28.pdb (Full PDB)
