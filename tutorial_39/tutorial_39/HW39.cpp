@@ -16,6 +16,6 @@ int main()
 		}
 		sumMoney += gold;
 	}
-	printf("근무일 : %d일 / 총 금화 수 : %d개", workDay, sumMoney);
+	printf("근무일 : %d일 / 총 금화 수 : %d개\n", workDay, sumMoney);
 	return 0;
 }
