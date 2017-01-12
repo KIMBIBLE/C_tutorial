@@ -1,0 +1,10 @@
+﻿  HW56.cpp
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_56\tutorial_56\hw56.cpp(22): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_56\tutorial_56\hw56.cpp(19): warning C4101: 'k' :참조되지 않은 지역 변수입니다.
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_56\tutorial_56\hw56.cpp(46): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_56\tutorial_56\hw56.cpp(57): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+  tutorial_56.vcxproj -> C:\Users\B.B.KIM\Desktop\PM\C_tutorial\tutorial_56\Debug\tutorial_56.exe
+  tutorial_56.vcxproj -> C:\Users\B.B.KIM\Desktop\PM\C_tutorial\tutorial_56\Debug\tutorial_56.pdb (Full PDB)
