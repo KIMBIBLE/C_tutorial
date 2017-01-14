@@ -1,0 +1,7 @@
+﻿  HW67.cpp
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_67\tutorial_67\hw67.cpp(31): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_67\tutorial_67\hw67.cpp(44): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 'scanf' 선언을 참조하십시오.
+  tutorial_67.vcxproj -> C:\Users\B.B.KIM\Desktop\PM\C_tutorial\tutorial_67\Debug\tutorial_67.exe
+  tutorial_67.vcxproj -> C:\Users\B.B.KIM\Desktop\PM\C_tutorial\tutorial_67\Debug\tutorial_67.pdb (Full PDB)
