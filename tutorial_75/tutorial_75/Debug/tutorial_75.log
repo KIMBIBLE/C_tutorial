@@ -1,0 +1,5 @@
+﻿  HW75.cpp
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_75\tutorial_75\hw75.cpp(141): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\conio.h(455): note: 'getche' 선언을 참조하십시오.
+  tutorial_75.vcxproj -> C:\Users\B.B.KIM\Desktop\PM\C_tutorial\tutorial_75\Debug\tutorial_75.exe
+  tutorial_75.vcxproj -> C:\Users\B.B.KIM\Desktop\PM\C_tutorial\tutorial_75\Debug\tutorial_75.pdb (Full PDB)

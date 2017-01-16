@@ -1,0 +1,5 @@
+﻿  HW76.cpp
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_76\tutorial_76\hw76.cpp(38): warning C4101: 'len' :참조되지 않은 지역 변수입니다.
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_76\tutorial_76\hw76.cpp(237): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  tutorial_76.vcxproj -> C:\Users\B.B.KIM\Desktop\PM\C_tutorial\tutorial_76\Debug\tutorial_76.exe
+  tutorial_76.vcxproj -> C:\Users\B.B.KIM\Desktop\PM\C_tutorial\tutorial_76\Debug\tutorial_76.pdb (Full PDB)
