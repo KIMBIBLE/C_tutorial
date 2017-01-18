@@ -1,0 +1,12 @@
+﻿  HW74.cpp
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_74\tutorial_74\hw74.cpp(25): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_74\tutorial_74\hw74.cpp(20): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_74\tutorial_74\hw74.cpp(54): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 'fopen' 선언을 참조하십시오.
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_74\tutorial_74\hw74.cpp(66): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_74\tutorial_74\hw74.cpp(68): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: 'fscanf' 선언을 참조하십시오.
+  tutorial_74.vcxproj -> C:\Users\B.B.KIM\Desktop\PM\C_tutorial\tutorial_74\Debug\tutorial_74.exe
+  tutorial_74.vcxproj -> C:\Users\B.B.KIM\Desktop\PM\C_tutorial\tutorial_74\Debug\tutorial_74.pdb (Full PDB)
