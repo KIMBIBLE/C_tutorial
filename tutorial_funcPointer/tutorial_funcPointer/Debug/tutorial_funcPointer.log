@@ -1,0 +1,4 @@
+﻿  funcPointerArray.cpp
+c:\users\b.b.kim\desktop\pm\c_tutorial\tutorial_funcpointer\tutorial_funcpointer\funcpointerarray.cpp(10): warning C4101: 'j' :참조되지 않은 지역 변수입니다.
+  tutorial_funcPointer.vcxproj -> C:\Users\B.B.KIM\Desktop\PM\C_tutorial\tutorial_funcPointer\Debug\tutorial_funcPointer.exe
+  tutorial_funcPointer.vcxproj -> C:\Users\B.B.KIM\Desktop\PM\C_tutorial\tutorial_funcPointer\Debug\tutorial_funcPointer.pdb (Full PDB)
