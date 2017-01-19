@@ -21,5 +21,11 @@
     <ClCompile Include="funcPointerArray.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="typedef.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="returnType.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
